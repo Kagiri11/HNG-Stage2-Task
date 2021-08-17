@@ -1,0 +1,2 @@
+rootProject.name = "HNGi8x14G stage2"
+include ':app'
