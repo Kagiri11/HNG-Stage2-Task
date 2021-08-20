@@ -11,7 +11,7 @@ it is in a file called **Question2Task.kt**
 The solution to question 5 is in the **MainActivity.kt**
 
 ## The following is the apps gif
-<video align="center">
+<video controls>
 <source src="https://user-images.githubusercontent.com/59829833/129723864-2e0cf949-f021-4e04-9da0-1c1582d54c9b.mp4" type="video/mp4">
 </video>
 
