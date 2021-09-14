@@ -10,7 +10,7 @@ it is in a file called **Question2Task.kt**
 
 The solution to question 5 is in the **MainActivity.kt**
 
-## The following is the app's gif
+## The following is the app's mp4
 https://user-images.githubusercontent.com/59829833/129723864-2e0cf949-f021-4e04-9da0-1c1582d54c9b.mp4
 
 
